@@ -1,0 +1,13 @@
+streamlit
+pandas
+nbformat
+plotly
+duckdb
+statsmodels
+numpy
+matplotlib
+seaborn
+
+
+
+
